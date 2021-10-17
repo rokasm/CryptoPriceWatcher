@@ -23,7 +23,7 @@ struct CryptoPriceWatcherView: View {
                 VStack {
                     VStack {
                         Text(selectedCrypto.getName())
-                            .font(.system(size: 36, weight: .bold))
+                            .font(.system(size: 42, weight: .bold))
                             .foregroundColor(Color("LightBlue"))
                             .shadow(color: .black, radius: 3, x: 0, y: 0)
                             .padding(.bottom, 96)

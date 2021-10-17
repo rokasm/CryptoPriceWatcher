@@ -16,6 +16,7 @@ struct Price: Codable {
 extension Price {
     func components() -> (dollars: String?, cents: String?) {
         let tokens = amount.components(separatedBy: ".")
+
         return (dollars: tokens.first, cents: tokens.last)
     }
 }

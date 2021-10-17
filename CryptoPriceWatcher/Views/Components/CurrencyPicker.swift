@@ -12,7 +12,6 @@ struct CurrencyPicker<CurrencyType>:View where CurrencyType:Hashable, CurrencyTy
     @Binding var isVisible: Bool
     var options: [CurrencyType]
     var offset: (x: CGFloat, y: CGFloat) = (x: 0, y: -50)
-//    var action: () -> Void
     
     var body: some View {
         if (isVisible) {
@@ -20,30 +19,32 @@ struct CurrencyPicker<CurrencyType>:View where CurrencyType:Hashable, CurrencyTy
                 ForEach(options, id: \.self) { option in
                     Text(option.getName())
                         .foregroundColor(.white)
-                        .font(.system(size: 24, weight: .semibold))
+                        .font(.system(size: 24, weight: .regular))
                         .tag(option)
                 }
             }
             .onChange(of: selectedValue) { (value) in
                 withAnimation {
-                    print(value)
                     isVisible = false
                 }
             }
             .background(
                 ZStack() {
-                    Color.black.opacity(0.5)
-                    Image("Background").resizable().opacity(0.85)
+                    Image("Background").resizable()
+                        .scaledToFill()
                         .blendMode(BlendMode.overlay)
                 }
-                    .blur(radius: 10)
+                    .blur(radius: 15)
+                    .opacity(0.8)
             )
             .labelsHidden()
             .pickerStyle(.wheel)
-            .padding(0)
+            .padding(45)
             .frame(width: 300, height: 150)
-            .cornerRadius(25)
+            .cornerRadius(35)
             .offset(x: offset.x, y: offset.y)
+            .transition(.opacity)
+            .shadow(color: .black.opacity(0.75), radius: 30, x: 0, y: 0)
         }
     }
 }

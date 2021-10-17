@@ -16,6 +16,7 @@ enum Currency: String, Codable, CaseIterable, NameableCurrency {
     case EUR
     case GBP
     case CNY
+    case CHF
     
     func getName() -> String {
         switch self {
@@ -24,10 +25,13 @@ enum Currency: String, Codable, CaseIterable, NameableCurrency {
         case .EUR:
             return "Euros"
         case .GBP:
-            return "Pound Sterlings"
+            return "British Pounds"
         case .CNY:
             return "Chinese Yuans"
+        case .CHF:
+            return "Swiss Franc"
         }
+        
     }
 }
 
@@ -37,6 +41,12 @@ enum CryptoCurrency: String, Codable, CaseIterable, NameableCurrency {
     case DOGE
     case ADA
     case USDT
+    case SOL
+    case LTC
+    case UNI
+    case DOT
+    case XLM
+    case HNT
     
     func getName() -> String {
         switch self {
@@ -50,6 +60,18 @@ enum CryptoCurrency: String, Codable, CaseIterable, NameableCurrency {
             return "Cardano"
         case .USDT:
             return "Tether"
+        case .SOL:
+            return "Solana"
+        case .LTC:
+            return "Litecoin"
+        case .UNI:
+            return "Uniswap"
+        case .DOT:
+            return "Polkadot"
+        case .XLM:
+            return "Stellar"
+        case .HNT:
+            return "Helium"
         }
     }
 }

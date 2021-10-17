@@ -10,12 +10,12 @@
 		E420C59F27175AF800940305 /* CryptoPriceWatcherViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E420C59E27175AF800940305 /* CryptoPriceWatcherViewModel.swift */; };
 		E4273A60271AF56E00593469 /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4273A5F271AF56E00593469 /* Currency.swift */; };
 		E4273A63271AF6A500593469 /* CurrencyPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4273A62271AF6A500593469 /* CurrencyPicker.swift */; };
-		E4273A66271B65A800593469 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4273A65271B65A800593469 /* LaunchScreen.storyboard */; };
+		E4273A68271C077F00593469 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4273A67271C077F00593469 /* LaunchScreen.storyboard */; };
+		E475A115271C977100B6D133 /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4813FAE2718039100470E8D /* Swinject.xcframework */; };
+		E475A116271C977100B6D133 /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E4813FAE2718039100470E8D /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E4813FA82717FCA200470E8D /* Price.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FA72717FCA200470E8D /* Price.swift */; };
 		E4813FAA2717FE9800470E8D /* PriceRespone.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FA92717FE9800470E8D /* PriceRespone.swift */; };
 		E4813FAC2717FECE00470E8D /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FAB2717FECE00470E8D /* Endpoint.swift */; };
-		E4813FB2271803DE00470E8D /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4813FAE2718039100470E8D /* Swinject.xcframework */; };
-		E4813FB3271803DE00470E8D /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E4813FAE2718039100470E8D /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E4899B9827154722004F0BF5 /* CryptoPriceWatcherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899B9727154722004F0BF5 /* CryptoPriceWatcherApp.swift */; };
 		E4899B9A27154722004F0BF5 /* CryptoPriceWatcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899B9927154722004F0BF5 /* CryptoPriceWatcherView.swift */; };
 		E4899B9C27154725004F0BF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4899B9B27154725004F0BF5 /* Assets.xcassets */; };
@@ -25,13 +25,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		E4813FB4271803DE00470E8D /* Embed Frameworks */ = {
+		E475A117271C977100B6D133 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				E4813FB3271803DE00470E8D /* Swinject.xcframework in Embed Frameworks */,
+				E475A116271C977100B6D133 /* Swinject.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -42,7 +42,7 @@
 		E420C59E27175AF800940305 /* CryptoPriceWatcherViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPriceWatcherViewModel.swift; sourceTree = "<group>"; };
 		E4273A5F271AF56E00593469 /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
 		E4273A62271AF6A500593469 /* CurrencyPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyPicker.swift; sourceTree = "<group>"; };
-		E4273A65271B65A800593469 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E4273A67271C077F00593469 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4813FA72717FCA200470E8D /* Price.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Price.swift; sourceTree = "<group>"; };
 		E4813FA92717FE9800470E8D /* PriceRespone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceRespone.swift; sourceTree = "<group>"; };
 		E4813FAB2717FECE00470E8D /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4813FB2271803DE00470E8D /* Swinject.xcframework in Frameworks */,
+				E475A115271C977100B6D133 /* Swinject.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -133,7 +133,7 @@
 				E4899B9B27154725004F0BF5 /* Assets.xcassets */,
 				E4899BA027154725004F0BF5 /* Info.plist */,
 				E4899B9D27154725004F0BF5 /* Preview Content */,
-				E4273A65271B65A800593469 /* LaunchScreen.storyboard */,
+				E4273A67271C077F00593469 /* LaunchScreen.storyboard */,
 			);
 			path = CryptoPriceWatcher;
 			sourceTree = "<group>";
@@ -165,7 +165,7 @@
 				E4899B9027154722004F0BF5 /* Sources */,
 				E4899B9127154722004F0BF5 /* Frameworks */,
 				E4899B9227154722004F0BF5 /* Resources */,
-				E4813FB4271803DE00470E8D /* Embed Frameworks */,
+				E475A117271C977100B6D133 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -213,7 +213,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4273A66271B65A800593469 /* LaunchScreen.storyboard in Resources */,
+				E4273A68271C077F00593469 /* LaunchScreen.storyboard in Resources */,
 				E4899B9F27154725004F0BF5 /* Preview Assets.xcassets in Resources */,
 				E4899B9C27154725004F0BF5 /* Assets.xcassets in Resources */,
 			);

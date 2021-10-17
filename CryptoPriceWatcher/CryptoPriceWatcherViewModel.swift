@@ -43,18 +43,18 @@ class CryptoPriceWatcherViewModel: ObservableObject {
             DispatchQueue.main.async {
                 guard let response = response else { return }
                 self.price = response.data
-                print(self.price!)
-
             }
         }
     }
     
     var amount: String {
-        return price?.amount ?? "f"
+        let dollars = price?.components().dollars ?? ""
+        let cents = price?.components().cents ?? ""
+        return dollars+"."+cents.prefix(2)
     }
     
     var cryptoName: String {
-        price?.base.getName() ?? ""
+        price?.components().dollars ?? ""
     }
     
     var fiatName: String {
