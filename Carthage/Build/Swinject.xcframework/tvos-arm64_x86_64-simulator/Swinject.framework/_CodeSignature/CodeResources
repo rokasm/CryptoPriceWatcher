@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Swinject-Swift.h</key>
 		<data>
-		i7Z1aOk6R5ZyBMxYFrY+0LdI/6c=
+		ELZGWEIXuvk8+t+PY2Tdq5F1iCk=
 		</data>
 		<key>Headers/Swinject.h</key>
 		<data>
@@ -14,71 +14,71 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1rhMZ9gjkcwUqBAmmw7wSXWMwVA=
+		dnNdXG+bnokp/7xP4nLYmjDcPaY=
 		</data>
 		<key>Modules/Swinject.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		SELmvVkqz/GyaNmqgkgefddZFas=
+		8pfKjTvDP+wyde4bnwOp6m1yuqE=
 		</data>
 		<key>Modules/Swinject.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		SELmvVkqz/GyaNmqgkgefddZFas=
+		8pfKjTvDP+wyde4bnwOp6m1yuqE=
 		</data>
 		<key>Modules/Swinject.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		sZSVX/dumjiFpKLqWh8p46oLqhs=
+		HhPgwDsj7xPCnPBBpXQH1HBKzp4=
 		</data>
 		<key>Modules/Swinject.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		sZSVX/dumjiFpKLqWh8p46oLqhs=
+		HhPgwDsj7xPCnPBBpXQH1HBKzp4=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		CuPHFv6o6+/sXhEtLI5v2XsCWE4=
+		3T6+hU7V8xoRDSZlvJZEdz2LnMs=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		vS89r9JHx97hpd4ObhPPjhhmxeg=
+		6eXk2yoNVvSMeEv0rkX64q4llBU=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		G1w6keT5MVe05+R8jArmKrPoHQo=
+		DQGjvfhoNBFHCIx/IqIQa1xqXH0=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		CuPHFv6o6+/sXhEtLI5v2XsCWE4=
+		3T6+hU7V8xoRDSZlvJZEdz2LnMs=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		vS89r9JHx97hpd4ObhPPjhhmxeg=
+		6eXk2yoNVvSMeEv0rkX64q4llBU=
 		</data>
 		<key>Modules/Swinject.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		G1w6keT5MVe05+R8jArmKrPoHQo=
+		DQGjvfhoNBFHCIx/IqIQa1xqXH0=
 		</data>
 		<key>Modules/Swinject.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		+onld5lpT/lgFRj3VvbsnUqK3oc=
+		3hHNjCO9ETBpbtDW3ytmPUYj7wk=
 		</data>
 		<key>Modules/Swinject.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		Aywjhf4JLlACIMlbt6FV1vRaXbM=
+		efmEFkxWN1tXz7oW4W3MZlxrCb8=
 		</data>
 		<key>Modules/Swinject.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		6f1RjuBNbUvsg/hy0v8WlFA0ckY=
+		be3XOv6ODyK0KJFUYS8I5MZpiyI=
 		</data>
 		<key>Modules/Swinject.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		+onld5lpT/lgFRj3VvbsnUqK3oc=
+		3hHNjCO9ETBpbtDW3ytmPUYj7wk=
 		</data>
 		<key>Modules/Swinject.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Aywjhf4JLlACIMlbt6FV1vRaXbM=
+		efmEFkxWN1tXz7oW4W3MZlxrCb8=
 		</data>
 		<key>Modules/Swinject.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		6f1RjuBNbUvsg/hy0v8WlFA0ckY=
+		be3XOv6ODyK0KJFUYS8I5MZpiyI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,11 +91,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i7Z1aOk6R5ZyBMxYFrY+0LdI/6c=
+			ELZGWEIXuvk8+t+PY2Tdq5F1iCk=
 			</data>
 			<key>hash2</key>
 			<data>
-			q+htWMd23pUZahttcBbKitr54bii139zs3QOdlutSo0=
+			PAMa7ujJwf7w5EdhXCobv8Ho9kQdUiW5lGKjDLENusw=
 			</data>
 		</dict>
 		<key>Headers/Swinject.h</key>
@@ -113,176 +113,176 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SELmvVkqz/GyaNmqgkgefddZFas=
+			8pfKjTvDP+wyde4bnwOp6m1yuqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			12vTfjDwMkwqHBCoATIiRC/gLnQOdhZPtA3ANye4X5Y=
+			Tin8unP2kauP4+a6DsA8CTbiC9wt6tKlC+DCQ7PH0YA=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SELmvVkqz/GyaNmqgkgefddZFas=
+			8pfKjTvDP+wyde4bnwOp6m1yuqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			12vTfjDwMkwqHBCoATIiRC/gLnQOdhZPtA3ANye4X5Y=
+			Tin8unP2kauP4+a6DsA8CTbiC9wt6tKlC+DCQ7PH0YA=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sZSVX/dumjiFpKLqWh8p46oLqhs=
+			HhPgwDsj7xPCnPBBpXQH1HBKzp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			JP2BfWDvmgZvwZPQwQ7gmJ346loTesclWTiJHX8uRQo=
+			qbrtvh6qopGc1iiVOCq42tW1Wo6oBNj7P0dCqeENsb4=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sZSVX/dumjiFpKLqWh8p46oLqhs=
+			HhPgwDsj7xPCnPBBpXQH1HBKzp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			JP2BfWDvmgZvwZPQwQ7gmJ346loTesclWTiJHX8uRQo=
+			qbrtvh6qopGc1iiVOCq42tW1Wo6oBNj7P0dCqeENsb4=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuPHFv6o6+/sXhEtLI5v2XsCWE4=
+			3T6+hU7V8xoRDSZlvJZEdz2LnMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			eV7x4TLnMPItsII3qXVdo0UwWyAb/dhWoZsO19EgOo8=
+			1q8Gg8FpNpf84I3C1j8vSK/gtd5l4/gttiqXaxHcun4=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vS89r9JHx97hpd4ObhPPjhhmxeg=
+			6eXk2yoNVvSMeEv0rkX64q4llBU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zyy+eqYr8nC+MhpTWn00FYO1hqHIoG3EvO6wt00z31Y=
+			ivG9TFuN2Z62tJc5CNXeIQG2xugkV15oycUxQ7cZzPc=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G1w6keT5MVe05+R8jArmKrPoHQo=
+			DQGjvfhoNBFHCIx/IqIQa1xqXH0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7CvkURBQ3Jw3QOfiuynYXoNK9Lrsdv/oi1ST99IEuoI=
+			LH/aCII7TLLAGLbZxa63jcdIvLkSSH7UkkoBzbzUWWI=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuPHFv6o6+/sXhEtLI5v2XsCWE4=
+			3T6+hU7V8xoRDSZlvJZEdz2LnMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			eV7x4TLnMPItsII3qXVdo0UwWyAb/dhWoZsO19EgOo8=
+			1q8Gg8FpNpf84I3C1j8vSK/gtd5l4/gttiqXaxHcun4=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vS89r9JHx97hpd4ObhPPjhhmxeg=
+			6eXk2yoNVvSMeEv0rkX64q4llBU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zyy+eqYr8nC+MhpTWn00FYO1hqHIoG3EvO6wt00z31Y=
+			ivG9TFuN2Z62tJc5CNXeIQG2xugkV15oycUxQ7cZzPc=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G1w6keT5MVe05+R8jArmKrPoHQo=
+			DQGjvfhoNBFHCIx/IqIQa1xqXH0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7CvkURBQ3Jw3QOfiuynYXoNK9Lrsdv/oi1ST99IEuoI=
+			LH/aCII7TLLAGLbZxa63jcdIvLkSSH7UkkoBzbzUWWI=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+onld5lpT/lgFRj3VvbsnUqK3oc=
+			3hHNjCO9ETBpbtDW3ytmPUYj7wk=
 			</data>
 			<key>hash2</key>
 			<data>
-			JErzh5ofR/s53bVVbDlF7c94E5fRY9sq6GGJhP1VAsY=
+			DYZ8uK4ULMfHumYR/uq1IZTcxobAL49kKpMS6b+SYWY=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aywjhf4JLlACIMlbt6FV1vRaXbM=
+			efmEFkxWN1tXz7oW4W3MZlxrCb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xSXD/r3oQmQ7kfTf5FlFxCziUc2QmcST6o8L81FhgP8=
+			KoTBUSj+tnCNVxscP4vsPzsDwX3o4LktU8CUs+1A9cg=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6f1RjuBNbUvsg/hy0v8WlFA0ckY=
+			be3XOv6ODyK0KJFUYS8I5MZpiyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/9AKwFFULixdGauykJz9Ranfxb/FH/RY1lcBtdEgGDg=
+			/3KnzBG20ZhIjthPDzWKxc4KvhA5B0p4YhsYmDC6p40=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+onld5lpT/lgFRj3VvbsnUqK3oc=
+			3hHNjCO9ETBpbtDW3ytmPUYj7wk=
 			</data>
 			<key>hash2</key>
 			<data>
-			JErzh5ofR/s53bVVbDlF7c94E5fRY9sq6GGJhP1VAsY=
+			DYZ8uK4ULMfHumYR/uq1IZTcxobAL49kKpMS6b+SYWY=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aywjhf4JLlACIMlbt6FV1vRaXbM=
+			efmEFkxWN1tXz7oW4W3MZlxrCb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xSXD/r3oQmQ7kfTf5FlFxCziUc2QmcST6o8L81FhgP8=
+			KoTBUSj+tnCNVxscP4vsPzsDwX3o4LktU8CUs+1A9cg=
 			</data>
 		</dict>
 		<key>Modules/Swinject.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6f1RjuBNbUvsg/hy0v8WlFA0ckY=
+			be3XOv6ODyK0KJFUYS8I5MZpiyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/9AKwFFULixdGauykJz9Ranfxb/FH/RY1lcBtdEgGDg=
+			/3KnzBG20ZhIjthPDzWKxc4KvhA5B0p4YhsYmDC6p40=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

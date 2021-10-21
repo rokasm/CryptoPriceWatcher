@@ -46,7 +46,6 @@ enum CryptoCurrency: String, Codable, CaseIterable, NameableCurrency {
     case UNI
     case DOT
     case XLM
-    case HNT
     
     func getName() -> String {
         switch self {
@@ -70,8 +69,6 @@ enum CryptoCurrency: String, Codable, CaseIterable, NameableCurrency {
             return "Polkadot"
         case .XLM:
             return "Stellar"
-        case .HNT:
-            return "Helium"
         }
     }
 }

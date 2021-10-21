@@ -16,7 +16,7 @@ enum ApiProviders: Endpoint {
     
   var path: String {
     switch self {
-    case .coinbase(let from, let to): return "https://api.coinbase.com/v2/prices/\(from)-\(to)/spot"
+    case .coinbase(let from, let to): return "https://api.coinbase.com/v2/prices/\(from)-\(to)/spot/"
     }
   }
 }

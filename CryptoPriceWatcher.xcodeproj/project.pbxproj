@@ -18,11 +18,52 @@
 		E4813FAC2717FECE00470E8D /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FAB2717FECE00470E8D /* Endpoint.swift */; };
 		E4899B9827154722004F0BF5 /* CryptoPriceWatcherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899B9727154722004F0BF5 /* CryptoPriceWatcherApp.swift */; };
 		E4899B9A27154722004F0BF5 /* CryptoPriceWatcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899B9927154722004F0BF5 /* CryptoPriceWatcherView.swift */; };
-		E4899B9C27154725004F0BF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4899B9B27154725004F0BF5 /* Assets.xcassets */; };
 		E4899B9F27154725004F0BF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4899B9E27154725004F0BF5 /* Preview Assets.xcassets */; };
 		E4899BA82715583C004F0BF5 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899BA72715583C004F0BF5 /* Network.swift */; };
 		E4899BAA27155873004F0BF5 /* PriceFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899BA927155873004F0BF5 /* PriceFetcher.swift */; };
+		E49011FB27201B6300CF7D12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49011FA27201B6200CF7D12 /* Assets.xcassets */; };
+		E49012152720229300CF7D12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49012142720229300CF7D12 /* Assets.xcassets */; };
+		E49012162720231C00CF7D12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49011FA27201B6200CF7D12 /* Assets.xcassets */; };
+		E49012182720519300CF7D12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4A019E927200B4F00A87EC5 /* Assets.xcassets */; };
+		E4A01889271EDC0E00A87EC5 /* ChartDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A01888271EDC0E00A87EC5 /* ChartDate.swift */; };
+		E4A019EA27200B4F00A87EC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4A019E927200B4F00A87EC5 /* Assets.xcassets */; };
+		E4A019F027200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E4A019EF27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E4A019F727200B4F00A87EC5 /* CryptoPriceWatcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A019F627200B4F00A87EC5 /* CryptoPriceWatcherView.swift */; };
+		E4A019F927200B4F00A87EC5 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A019F827200B4F00A87EC5 /* NotificationController.swift */; };
+		E4A019FB27200B4F00A87EC5 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A019FA27200B4F00A87EC5 /* NotificationView.swift */; };
+		E4A019FD27200B4F00A87EC5 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A019FC27200B4F00A87EC5 /* ComplicationController.swift */; };
+		E4A01A0227200B5100A87EC5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4A01A0127200B5100A87EC5 /* Preview Assets.xcassets */; };
+		E4A01A0727200B5100A87EC5 /* WatchCryptoPriceWatcher.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = E4A019E727200B4D00A87EC5 /* WatchCryptoPriceWatcher.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E4A01A0F27200C9300A87EC5 /* Price.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FA72717FCA200470E8D /* Price.swift */; };
+		E4A01A1027200C9300A87EC5 /* PriceFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899BA927155873004F0BF5 /* PriceFetcher.swift */; };
+		E4A01A1227200C9300A87EC5 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899BA72715583C004F0BF5 /* Network.swift */; };
+		E4A01A1327200C9300A87EC5 /* CryptoPriceWatcherViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E420C59E27175AF800940305 /* CryptoPriceWatcherViewModel.swift */; };
+		E4A01A1427200C9300A87EC5 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FAB2717FECE00470E8D /* Endpoint.swift */; };
+		E4A01A1527200C9300A87EC5 /* ChartDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A01888271EDC0E00A87EC5 /* ChartDate.swift */; };
+		E4A01A1627200C9300A87EC5 /* CryptoPriceWatcherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4899B9727154722004F0BF5 /* CryptoPriceWatcherApp.swift */; };
+		E4A01A1827200C9300A87EC5 /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4273A5F271AF56E00593469 /* Currency.swift */; };
+		E4A01A1927200C9300A87EC5 /* PriceRespone.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4813FA92717FE9800470E8D /* PriceRespone.swift */; };
+		E4A01A1D27200E7000A87EC5 /* Swinject.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4813FAE2718039100470E8D /* Swinject.xcframework */; };
+		E4A01A1E27200E7000A87EC5 /* Swinject.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E4813FAE2718039100470E8D /* Swinject.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		E4A01A2127200F2200A87EC5 /* CurrencyPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A01A2027200F2200A87EC5 /* CurrencyPicker.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E4A019F127200B4F00A87EC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E4899B8C27154722004F0BF5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E4A019EE27200B4F00A87EC5;
+			remoteInfo = "WatchCryptoPriceWatcher WatchKit Extension";
+		};
+		E4A01A0527200B5100A87EC5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E4899B8C27154722004F0BF5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E4A019E627200B4D00A87EC5;
+			remoteInfo = WatchCryptoPriceWatcher;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		E475A117271C977100B6D133 /* Embed Frameworks */ = {
@@ -32,6 +73,39 @@
 			dstSubfolderSpec = 10;
 			files = (
 				E475A116271C977100B6D133 /* Swinject.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4A01996272006CB00A87EC5 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				E4A01A0727200B5100A87EC5 /* WatchCryptoPriceWatcher.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4A01A0B27200B5100A87EC5 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				E4A019F027200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4A01A1F27200E7000A87EC5 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				E4A01A1E27200E7000A87EC5 /* Swinject.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -50,11 +124,25 @@
 		E4899B9427154722004F0BF5 /* CryptoPriceWatcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptoPriceWatcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4899B9727154722004F0BF5 /* CryptoPriceWatcherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPriceWatcherApp.swift; sourceTree = "<group>"; };
 		E4899B9927154722004F0BF5 /* CryptoPriceWatcherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPriceWatcherView.swift; sourceTree = "<group>"; };
-		E4899B9B27154725004F0BF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4899B9E27154725004F0BF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E4899BA027154725004F0BF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4899BA72715583C004F0BF5 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		E4899BA927155873004F0BF5 /* PriceFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceFetcher.swift; sourceTree = "<group>"; };
+		E49011FA27201B6200CF7D12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E49012142720229300CF7D12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E4A01888271EDC0E00A87EC5 /* ChartDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartDate.swift; sourceTree = "<group>"; };
+		E4A019272720030300A87EC5 /* Swinject */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Swinject; path = ../CryptoPriceWatcherWatch/Carthage/Checkouts/Swinject; sourceTree = "<group>"; };
+		E4A019E727200B4D00A87EC5 /* WatchCryptoPriceWatcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchCryptoPriceWatcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4A019E927200B4F00A87EC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E4A019EF27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WatchCryptoPriceWatcher WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4A019F627200B4F00A87EC5 /* CryptoPriceWatcherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPriceWatcherView.swift; sourceTree = "<group>"; };
+		E4A019F827200B4F00A87EC5 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		E4A019FA27200B4F00A87EC5 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		E4A019FC27200B4F00A87EC5 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
+		E4A01A0127200B5100A87EC5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E4A01A0327200B5100A87EC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4A01A0427200B5100A87EC5 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		E4A01A2027200F2200A87EC5 /* CurrencyPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +151,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				E475A115271C977100B6D133 /* Swinject.xcframework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4A019EC27200B4F00A87EC5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4A01A1D27200E7000A87EC5 /* Swinject.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,6 +172,7 @@
 				E4813FA92717FE9800470E8D /* PriceRespone.swift */,
 				E4813FAB2717FECE00470E8D /* Endpoint.swift */,
 				E4273A5F271AF56E00593469 /* Currency.swift */,
+				E4A01888271EDC0E00A87EC5 /* ChartDate.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -100,6 +197,7 @@
 		E4813FAD2718039100470E8D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E4A019272720030300A87EC5 /* Swinject */,
 				E4813FAE2718039100470E8D /* Swinject.xcframework */,
 			);
 			name = Frameworks;
@@ -109,6 +207,8 @@
 			isa = PBXGroup;
 			children = (
 				E4899B9627154722004F0BF5 /* CryptoPriceWatcher */,
+				E4A019E827200B4D00A87EC5 /* WatchCryptoPriceWatcher */,
+				E4A019F327200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension */,
 				E4899B9527154722004F0BF5 /* Products */,
 				E4813FAD2718039100470E8D /* Frameworks */,
 			);
@@ -118,6 +218,8 @@
 			isa = PBXGroup;
 			children = (
 				E4899B9427154722004F0BF5 /* CryptoPriceWatcher.app */,
+				E4A019E727200B4D00A87EC5 /* WatchCryptoPriceWatcher.app */,
+				E4A019EF27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,12 +227,12 @@
 		E4899B9627154722004F0BF5 /* CryptoPriceWatcher */ = {
 			isa = PBXGroup;
 			children = (
-				E4899BA627155827004F0BF5 /* Dependencies */,
+				E49011FA27201B6200CF7D12 /* Assets.xcassets */,
 				E4899B9727154722004F0BF5 /* CryptoPriceWatcherApp.swift */,
+				E4899BA627155827004F0BF5 /* Dependencies */,
 				E420C59D271751D700940305 /* Model */,
 				E4273A61271AF69000593469 /* Views */,
 				E420C59E27175AF800940305 /* CryptoPriceWatcherViewModel.swift */,
-				E4899B9B27154725004F0BF5 /* Assets.xcassets */,
 				E4899BA027154725004F0BF5 /* Info.plist */,
 				E4899B9D27154725004F0BF5 /* Preview Content */,
 				E4273A67271C077F00593469 /* LaunchScreen.storyboard */,
@@ -155,6 +257,38 @@
 			path = Dependencies;
 			sourceTree = "<group>";
 		};
+		E4A019E827200B4D00A87EC5 /* WatchCryptoPriceWatcher */ = {
+			isa = PBXGroup;
+			children = (
+				E4A019E927200B4F00A87EC5 /* Assets.xcassets */,
+			);
+			path = WatchCryptoPriceWatcher;
+			sourceTree = "<group>";
+		};
+		E4A019F327200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				E49012142720229300CF7D12 /* Assets.xcassets */,
+				E4A019F627200B4F00A87EC5 /* CryptoPriceWatcherView.swift */,
+				E4A019F827200B4F00A87EC5 /* NotificationController.swift */,
+				E4A019FA27200B4F00A87EC5 /* NotificationView.swift */,
+				E4A019FC27200B4F00A87EC5 /* ComplicationController.swift */,
+				E4A01A0327200B5100A87EC5 /* Info.plist */,
+				E4A01A0427200B5100A87EC5 /* PushNotificationPayload.apns */,
+				E4A01A0027200B5100A87EC5 /* Preview Content */,
+				E4A01A2027200F2200A87EC5 /* CurrencyPicker.swift */,
+			);
+			path = "WatchCryptoPriceWatcher WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		E4A01A0027200B5100A87EC5 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				E4A01A0127200B5100A87EC5 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -166,15 +300,52 @@
 				E4899B9127154722004F0BF5 /* Frameworks */,
 				E4899B9227154722004F0BF5 /* Resources */,
 				E475A117271C977100B6D133 /* Embed Frameworks */,
+				E4A01996272006CB00A87EC5 /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				E4A01A0627200B5100A87EC5 /* PBXTargetDependency */,
 			);
 			name = CryptoPriceWatcher;
 			productName = CryptoPriceWatcher;
 			productReference = E4899B9427154722004F0BF5 /* CryptoPriceWatcher.app */;
 			productType = "com.apple.product-type.application";
+		};
+		E4A019E627200B4D00A87EC5 /* WatchCryptoPriceWatcher */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4A01A0C27200B5100A87EC5 /* Build configuration list for PBXNativeTarget "WatchCryptoPriceWatcher" */;
+			buildPhases = (
+				E4A019E527200B4D00A87EC5 /* Resources */,
+				E4A01A0B27200B5100A87EC5 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E4A019F227200B4F00A87EC5 /* PBXTargetDependency */,
+			);
+			name = WatchCryptoPriceWatcher;
+			productName = WatchCryptoPriceWatcher;
+			productReference = E4A019E727200B4D00A87EC5 /* WatchCryptoPriceWatcher.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		E4A019EE27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4A01A0827200B5100A87EC5 /* Build configuration list for PBXNativeTarget "WatchCryptoPriceWatcher WatchKit Extension" */;
+			buildPhases = (
+				E4A019EB27200B4F00A87EC5 /* Sources */,
+				E4A019EC27200B4F00A87EC5 /* Frameworks */,
+				E4A019ED27200B4F00A87EC5 /* Resources */,
+				E4A01A1F27200E7000A87EC5 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WatchCryptoPriceWatcher WatchKit Extension";
+			productName = "WatchCryptoPriceWatcher WatchKit Extension";
+			productReference = E4A019EF27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -182,11 +353,17 @@
 		E4899B8C27154722004F0BF5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1250;
+				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
 					E4899B9327154722004F0BF5 = {
 						CreatedOnToolsVersion = 12.5;
+					};
+					E4A019E627200B4D00A87EC5 = {
+						CreatedOnToolsVersion = 13.0;
+					};
+					E4A019EE27200B4F00A87EC5 = {
+						CreatedOnToolsVersion = 13.0;
 					};
 				};
 			};
@@ -204,6 +381,8 @@
 			projectRoot = "";
 			targets = (
 				E4899B9327154722004F0BF5 /* CryptoPriceWatcher */,
+				E4A019E627200B4D00A87EC5 /* WatchCryptoPriceWatcher */,
+				E4A019EE27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension */,
 			);
 		};
 /* End PBXProject section */
@@ -215,7 +394,26 @@
 			files = (
 				E4273A68271C077F00593469 /* LaunchScreen.storyboard in Resources */,
 				E4899B9F27154725004F0BF5 /* Preview Assets.xcassets in Resources */,
-				E4899B9C27154725004F0BF5 /* Assets.xcassets in Resources */,
+				E49011FB27201B6300CF7D12 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4A019E527200B4D00A87EC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4A019EA27200B4F00A87EC5 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4A019ED27200B4F00A87EC5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E49012152720229300CF7D12 /* Assets.xcassets in Resources */,
+				E49012162720231C00CF7D12 /* Assets.xcassets in Resources */,
+				E49012182720519300CF7D12 /* Assets.xcassets in Resources */,
+				E4A01A0227200B5100A87EC5 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -234,12 +432,47 @@
 				E420C59F27175AF800940305 /* CryptoPriceWatcherViewModel.swift in Sources */,
 				E4899B9827154722004F0BF5 /* CryptoPriceWatcherApp.swift in Sources */,
 				E4273A63271AF6A500593469 /* CurrencyPicker.swift in Sources */,
+				E4A01889271EDC0E00A87EC5 /* ChartDate.swift in Sources */,
 				E4899BA82715583C004F0BF5 /* Network.swift in Sources */,
 				E4813FA82717FCA200470E8D /* Price.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E4A019EB27200B4F00A87EC5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4A019F927200B4F00A87EC5 /* NotificationController.swift in Sources */,
+				E4A019F727200B4F00A87EC5 /* CryptoPriceWatcherView.swift in Sources */,
+				E4A01A1927200C9300A87EC5 /* PriceRespone.swift in Sources */,
+				E4A01A1227200C9300A87EC5 /* Network.swift in Sources */,
+				E4A019FD27200B4F00A87EC5 /* ComplicationController.swift in Sources */,
+				E4A01A1427200C9300A87EC5 /* Endpoint.swift in Sources */,
+				E4A01A1027200C9300A87EC5 /* PriceFetcher.swift in Sources */,
+				E4A01A0F27200C9300A87EC5 /* Price.swift in Sources */,
+				E4A01A2127200F2200A87EC5 /* CurrencyPicker.swift in Sources */,
+				E4A01A1827200C9300A87EC5 /* Currency.swift in Sources */,
+				E4A019FB27200B4F00A87EC5 /* NotificationView.swift in Sources */,
+				E4A01A1627200C9300A87EC5 /* CryptoPriceWatcherApp.swift in Sources */,
+				E4A01A1327200C9300A87EC5 /* CryptoPriceWatcherViewModel.swift in Sources */,
+				E4A01A1527200C9300A87EC5 /* ChartDate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E4A019F227200B4F00A87EC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E4A019EE27200B4F00A87EC5 /* WatchCryptoPriceWatcher WatchKit Extension */;
+			targetProxy = E4A019F127200B4F00A87EC5 /* PBXContainerItemProxy */;
+		};
+		E4A01A0627200B5100A87EC5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E4A019E627200B4D00A87EC5 /* WatchCryptoPriceWatcher */;
+			targetProxy = E4A01A0527200B5100A87EC5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		E4899BA127154725004F0BF5 /* Debug */ = {
@@ -374,10 +607,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = kb.crypto.price.watcher.CryptoPriceWatcher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -397,10 +631,131 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = kb.crypto.price.watcher.CryptoPriceWatcher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		E4A01A0927200B5100A87EC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"WatchCryptoPriceWatcher WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = 7F7SR445F8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WatchCryptoPriceWatcher WatchKit Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "WatchCryptoPriceWatcher WatchKit Extension";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = WatchCryptoPriceWatcher_WatchKit_Extension.ComplicationController;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = kb.crypto.price.watcher.CryptoPriceWatcher.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.0;
+			};
+			name = Debug;
+		};
+		E4A01A0A27200B5100A87EC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"WatchCryptoPriceWatcher WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = 7F7SR445F8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WatchCryptoPriceWatcher WatchKit Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "WatchCryptoPriceWatcher WatchKit Extension";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = WatchCryptoPriceWatcher_WatchKit_Extension.ComplicationController;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = kb.crypto.price.watcher.CryptoPriceWatcher.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.0;
+			};
+			name = Release;
+		};
+		E4A01A0D27200B5100A87EC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7F7SR445F8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IBSC_MODULE = WatchCryptoPriceWatcher_WatchKit_Extension;
+				INFOPLIST_KEY_CFBundleDisplayName = WatchCryptoPriceWatcher;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = kb.crypto.price.watcher.CryptoPriceWatcher;
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = kb.crypto.price.watcher.CryptoPriceWatcher.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.0;
+			};
+			name = Debug;
+		};
+		E4A01A0E27200B5100A87EC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7F7SR445F8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IBSC_MODULE = WatchCryptoPriceWatcher_WatchKit_Extension;
+				INFOPLIST_KEY_CFBundleDisplayName = WatchCryptoPriceWatcher;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = kb.crypto.price.watcher.CryptoPriceWatcher;
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = kb.crypto.price.watcher.CryptoPriceWatcher.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.0;
 			};
 			name = Release;
 		};
@@ -421,6 +776,24 @@
 			buildConfigurations = (
 				E4899BA427154725004F0BF5 /* Debug */,
 				E4899BA527154725004F0BF5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4A01A0827200B5100A87EC5 /* Build configuration list for PBXNativeTarget "WatchCryptoPriceWatcher WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4A01A0927200B5100A87EC5 /* Debug */,
+				E4A01A0A27200B5100A87EC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4A01A0C27200B5100A87EC5 /* Build configuration list for PBXNativeTarget "WatchCryptoPriceWatcher" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4A01A0D27200B5100A87EC5 /* Debug */,
+				E4A01A0E27200B5100A87EC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
